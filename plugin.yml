@@ -1,0 +1,8 @@
+name: Car
+version: 1.0
+description: awd
+main: Trubby.co.th.Car
+author: Tub
+commands:
+  test:
+  test2:
